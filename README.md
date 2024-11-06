@@ -1,4 +1,5 @@
 Salary Prediction Using Linear Regression
+
 This script demonstrates how to predict salary based on years of experience using linear regression. It involves data loading, visualization, model training, and evaluation. The primary goal is to build a regression model and use it to make predictions on both training and testing datasets.
 
 Prerequisites
